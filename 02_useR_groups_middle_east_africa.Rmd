@@ -16,6 +16,10 @@ knit: "bookdown::preview_chapter"
 
   * Cairo: [Cairo Bioinformatics Group](https://www.meetup.com/Cairo-Bioinformatics-Group/)
   * Cairo: [Cairo R Users Group](https://www.meetup.com/Cairo-R-Users-Group/)
+  
+### Eswatini `r edit_btn`
+
+  * Manzini: [Eswatini UseR Group](https://www.meetup.com/EswatiniUseR-Group/); [\@CapeRUser](https://twitter.com/EswatiniUseR)
 
 ### Israel `r edit_btn`
 
@@ -45,6 +49,7 @@ knit: "bookdown::preview_chapter"
 
   * Cape Town: [Cape R Users Group](https://caperuser.wordpress.com/); [\@CapeRUser](https://twitter.com/CapeRUser)
   * Johannesburg: [Jo'burg R Users Group](https://www.meetup.com/Joburg-R-Users-Group)
+ 
 
 ### Tanzania `r edit_btn`
 
